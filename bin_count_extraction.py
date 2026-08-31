@@ -80,7 +80,7 @@ A runnable example on a small array is given in the docstring of
 :func:`split_event_correct`.
 
 Author: Geunwoo Lee
-Licence: <MIT>
+Licence: MIT
 """
 
 import warnings
