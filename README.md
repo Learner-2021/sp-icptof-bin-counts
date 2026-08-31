@@ -1,5 +1,7 @@
-# sp-icptof-bin-counts
+# Bin-count extraction for single-particle ICP-TOF-MS data
 Bin-count extraction and split-event correction for single-particle ICP-TOF-MS ice-core data (v1.0.0)
+Merges split acquisition events into single particle events and reports
+the number of acquisitions each particle spans — its *bin count*.
 
 ## Background
 
